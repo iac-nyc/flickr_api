@@ -99,8 +99,11 @@
     border-radius:50%;  
  
 }
+nav > ul > li {
+    display: inline-block;
+}
 
-p > img {
+header> div > img  {
      border: 1px solid #FF4500;
      padding: 5px;
      width: 150px;
